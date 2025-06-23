@@ -71,17 +71,6 @@ Update the `CHROMEDRIVER_PATH` in the script if necessary.
 python3 script.py
 ```
 
-Expected output:
-
-```
-Nepali Date: 9 Aashadha 2082, Monday
-Tithi: असर कषण तरयदश
-Panchang: Trayodashi
-Main Special Event: 2082 Aashadha 9 , Som Pradosh Vrata/International Widows Day
-Other Special Events:
- No other special events today.
-```
-
 ---
 
 ## Troubleshooting
