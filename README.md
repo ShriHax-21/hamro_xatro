@@ -1,5 +1,5 @@
 
-# HamroPatro Date Scraper
+# Hamro_xatro
 
 This Python script uses Selenium and BeautifulSoup to scrape essential data (Nepali date, Tithi, Panchang, and special events) from [https://english.hamropatro.com/date](https://english.hamropatro.com/date).
 
